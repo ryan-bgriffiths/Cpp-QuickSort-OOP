@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|solutionrelative:quickSortHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|solutionrelative:quickSortHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\CISP400V10A7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F14283-B341-49BD-9282-BC01F098C4D5}|A7.vcxproj|solutionrelative:CISP400V10A7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CISP400V10A7.cpp",
+              "DocumentMoniker": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\CISP400V10A7.cpp",
+              "RelativeDocumentMoniker": "CISP400V10A7.cpp",
+              "ToolTip": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\CISP400V10A7.cpp",
+              "RelativeToolTip": "CISP400V10A7.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T06:27:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quickSortHelper.h",
+              "DocumentMoniker": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.h",
+              "RelativeDocumentMoniker": "quickSortHelper.h",
+              "ToolTip": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.h",
+              "RelativeToolTip": "quickSortHelper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T22:16:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quickSortHelper.cpp",
+              "DocumentMoniker": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.cpp",
+              "RelativeDocumentMoniker": "quickSortHelper.cpp",
+              "ToolTip": "C:\\Users\\Ryan Griffiths\\Desktop\\CISP 400\\CISP400 MSVC Projects\\A7\\quickSortHelper.cpp",
+              "RelativeToolTip": "quickSortHelper.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T22:15:25.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
