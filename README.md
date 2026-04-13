@@ -36,4 +36,4 @@ Sorted vector:
 - Vector manipulation in C++
 
 ## Notes
-This project was separated from a larger repository containing coursework from a Data Structures and Algorithms course in C++ and reorganized into a standalone, structured project for clarity and maintainability.
+This project was separated from a larger repository containing coursework from an Object-Oriented Programming course in C++. It demonstrates core OOP principles such as class design, encapsulation, and data management.
